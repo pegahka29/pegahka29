@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm Pegah! <img src="https://media.giphy.com/media/tJM0flK8VMupTa53NE/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<em> <p>Front-End Developer at <a href="https://www.thoughtworks.com">Rayan Parsi Company</a><img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**pegahka29/pegahka29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: ](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pegaahk/)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/dxpMQStCjRLU3IAcCq/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const pegah = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [Vue, VUex, Vite, Pinia, Styled-Components,Nuxt,Quasar...],
+
+ challenge: "I am doing the #100DaysOfCode challenge focused on Vue and Nuxt"
+}
+```
+
+
+---
