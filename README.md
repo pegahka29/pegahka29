@@ -11,7 +11,7 @@
 const pegah = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [Vue, VUex, Vite, Pinia, Styled-Components,Nuxt,Quasar...],
+  tools: [Vue, Vuex, Vite, Pinia, Styled-Components,Nuxt,Quasar...],
 
  challenge: "I am doing the #100DaysOfCode challenge focused on Vue and Nuxt"
 }
